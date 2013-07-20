@@ -15,7 +15,7 @@ nvm use v0.10.12
 
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
-npm install -g jshint
+npm install -g jshint express
 
 # Install node.js
 sudo apt-add-repository -y ppa:chris-lea/node.js
